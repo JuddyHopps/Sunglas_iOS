@@ -1,6 +1,6 @@
-# JetSunglassUI-Android
-New style for app design Online Sunglasses Shop App UI made in Jetpack Compose.😉😎
-
+# Sunglassショップア
+私のGitHubを訪問していただきありがとうございます。😉😎
+今回はiOSで動作するSunglassショップアプリを制作しました。
 (Navigation Components,
 Dagger-Hilt,
 Material Components)
@@ -9,7 +9,9 @@ Material Components)
 
 ![image shop app ui](https://user-images.githubusercontent.com/25154589/129030014-717e7ba0-a67b-4fce-b1ce-fc62b2048047.png)
 
-►Design Credit: https://dribbble.com/shots/15936592-The-Sunny-mobile-application-design
+制作:fantasydev1225@gmail.com
+疑問点等がございましたらお気軽に連携してください。
+ありがとうございます。
 
 
 
